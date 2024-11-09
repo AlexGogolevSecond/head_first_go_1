@@ -5,7 +5,7 @@ import (
 	"reflect"
 )
 
-func main() {
+func main3() {
 	var a int = 1
 	fmt.Println(a)
 	fmt.Println(reflect.TypeOf(a))
